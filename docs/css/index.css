@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'titels';
+	src: url('../font/pervitina_dex/Pervitina-Dex-FFP.ttf');
+}
+
+.titel {
+	font-family: 'titels';
+}
+
+.btn {
+	font-family: 'titels';
+}
+
+section {
+	margin: 0;
+}
+
+.chip-star {
+	display: inline-block;
+	padding: 0px 2px;
+	height: 26px;
+	font-size: 16px;
+	line-height: 39px;
+	border-radius: 6px;
+	background-color: #f1f1f1;
+}
